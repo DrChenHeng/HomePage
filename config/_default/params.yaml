@@ -21,10 +21,11 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: chenheng19@mails.ucas.ac.cn
+phone: +86 13217911931
 address:
   street: No.1666 Beijing east road
   city: Nanchang
-  province: Jiangxi
+  region: Jiangxi Province
   postcode: '330000'
   country: China
   country_code: CHN
@@ -33,8 +34,8 @@ coordinates:
   longitude: '-122.1697'
 directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
+  - 'weekday 09:00 to 17:00'
+  - 'weekend 09:00 to 11:30'
 appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
