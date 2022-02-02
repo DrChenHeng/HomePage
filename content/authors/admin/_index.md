@@ -14,7 +14,7 @@ organizations:
   url: https://www.ucas.ac.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include quantitative genetics, RNA biology and epigenetics.
 
 # Interests to show in About widget
 interests:
@@ -26,15 +26,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MSc in Plant genetics and breeding
+    institution: University of Chinese Academy of Sciences
+    year: 2019 to Now
+  - course: BSc in Finance
+    institution: Nanchang University
+    year: 2015 to 2017
+  - course: BSc in Bioengineering
+    institution: Nanchang University
+    year: 2014 to 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
