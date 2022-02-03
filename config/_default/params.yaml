@@ -42,7 +42,7 @@ contact_links:
   - icon: keybase
     icon_pack: fab
     name: ORCID
-    link: ' https://orcid.org/0000-0002-7498-2460'
+    link: 'https://orcid.org/0000-0002-7498-2460'
   - icon: comments
     icon_pack: fas
     name: Weibo
