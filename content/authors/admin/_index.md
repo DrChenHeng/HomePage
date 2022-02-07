@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:chenheng1908@mails.ucas.ac.cn'
+  link: '/#contact'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
