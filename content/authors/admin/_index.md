@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Chen, Heng (陈, 衡)
+title: Chen, Heng
 
 # Is this the primary user of the site?
 superuser: true
@@ -50,9 +50,9 @@ social:
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+- icon: zhihu
+  icon_pack: <i class="fab fa-zhihu"></i>
+  link: https://www.zhihu.com/people/chen-heng-69-69
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
@@ -71,6 +71,6 @@ email: ""
 highlight_name: true
 ---
 
-Chen, Heng is a M.S. student, majored in plant genetic and breeding, at Zhang lab of IGA, CAS. His research interests include quantitative genetics, RNA biology and bioinfomatics. 
+Chen, Heng (陈衡) is a M.S. student, majored in plant genetic and breeding, at Zhang lab of IGA, CAS. His research interests include quantitative genetics, RNA biology and bioinfomatics. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
