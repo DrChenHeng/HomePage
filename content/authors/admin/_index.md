@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Chen, Heng
+title: Chen, Heng (陈, 衡)
 
 # Is this the primary user of the site?
 superuser: true
@@ -26,7 +26,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: MSc in Plant genetics and breeding
+  - course: MSc in Plant Genetics and Breeding
     institution: University of Chinese Academy of Sciences
     year: 2019 to Now
   - course: BSc in Finance
