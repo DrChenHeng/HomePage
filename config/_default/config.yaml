@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Chen, Heng # Website name
+title: Academic Homepage # Website name
 baseurl: 'https://chenheng.site/' # Website URL
-copyright: '© {2022} CHEN' # Footer text, e.g. '© {year} Me'
+copyright: '© 2022 UCAS · HENG CHEN | Thanks for your visiting.' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
