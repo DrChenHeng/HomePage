@@ -49,8 +49,8 @@ social:
   link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: <i class="fab fa-zhihu"></i>
+  link: http://www.scopus.com/inward/authorDetails.url?authorID=57222151727&partnerID=MN8TOARS
+- icon: zhihu
   icon_pack: fab fa
   link: https://www.zhihu.com/people/chen-heng-69-69
 - icon: linkedin
