@@ -47,10 +47,10 @@ contact_links:
     icon_pack: fas
     name: Weibo
     link: 'https://weibo.com/u/5404109340'
-  - icon: comments
-    icon_pack: fas
-    name: Linkedin
-    link: 'www.linkedin.com/in/Dr-Hugo-Chen'
+  - icon: linkedin-in
+    icon_pack: fab
+    name: LinkedIn
+    link: 'https://www.linkedin.com/in/Dr-Hugo-Chen'
 
 
 # Site header
