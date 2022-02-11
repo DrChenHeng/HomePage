@@ -44,18 +44,19 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:chenheng19@mails.ucas.ac.cn'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: http://www.scopus.com/inward/authorDetails.url?authorID=57222151727&partnerID=MN8TOARS
-- icon: zhihu
+- icon: researchgate
   icon_pack: fab
-  link: https://www.zhihu.com/people/chen-heng-69-69
+  link: 'https://www.researchgate.net/profile/Heng-Chen-25'
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/Dr-Hugo-Chen
+- icon: orcid
+  icon_pack: fab
+  link: 'https://orcid.org/0000-0002-7498-2460'
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
