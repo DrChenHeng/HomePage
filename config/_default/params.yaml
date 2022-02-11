@@ -35,22 +35,22 @@ office_hours:
   - 'Weekday 09:00 to 17:00'
   - 'Weekend 09:00 to 11:30'
 contact_links:
-  - icon: research gate
-    icon_pack: fab
-    name: Research Gate
-    link: 'https://www.researchgate.net/profile/Heng-Chen-25'
-  - icon: keybase
-    icon_pack: fab
-    name: ORCID
-    link: 'https://orcid.org/0000-0002-7498-2460'
   - icon: weibo
     icon_pack: fab
     name: Weibo
     link: 'https://weibo.com/u/5404109340'
+  - icon: zhihu
+    icon_pack: fab
+    name: Zhihu
+    link: https://www.zhihu.com/people/chen-heng-69-69
   - icon: facebook
     icon_pack: fab
     name: Facebook
     link: 'https://www.facebook.com/PatrickStar1908'
+  - icon: twitter
+    icon_pack: fab
+    name: Twitter
+    link: https://twitter.com/chenheng1908
 
 
 # Site header
