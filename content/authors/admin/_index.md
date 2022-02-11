@@ -51,7 +51,7 @@ social:
   icon_pack: fas
   link: http://www.scopus.com/inward/authorDetails.url?authorID=57222151727&partnerID=MN8TOARS
 - icon: zhihu
-  icon_pack: fab fa
+  icon_pack: fab
   link: https://www.zhihu.com/people/chen-heng-69-69
 - icon: linkedin
   icon_pack: fab
