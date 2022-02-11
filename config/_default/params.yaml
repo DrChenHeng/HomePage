@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: Earth
+theme: Minimal
 day_night: true
 font: ''
 font_size: L
@@ -43,14 +43,14 @@ contact_links:
     icon_pack: fab
     name: ORCID
     link: 'https://orcid.org/0000-0002-7498-2460'
-  - icon: comments
-    icon_pack: fas
+  - icon: weibo
+    icon_pack: fab
     name: Weibo
     link: 'https://weibo.com/u/5404109340'
-  - icon: linkedin-in
+  - icon: facebook
     icon_pack: fab
-    name: LinkedIn
-    link: 'https://www.linkedin.com/in/Dr-Hugo-Chen'
+    name: Facebook
+    link: 'https://www.facebook.com/PatrickStar1908'
 
 
 # Site header
