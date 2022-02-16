@@ -9,7 +9,7 @@ date: "2021-12-08T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Major
+  caption: Major Quality Traits in Soybean
   focal_point: Smart
 
 links:
