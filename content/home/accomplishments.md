@@ -3,8 +3,6 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: accomplishments
 
-active: false
-
 # This file represents a page section.
 headless: true
 
@@ -12,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Personal Interest'
 subtitle:
 
 # Date format
@@ -27,11 +25,11 @@ date_format: Jan 2006
 item:
 - certificate_url: https://www.coursera.org
   date_end: ""
-  date_start: "2021-01-25"
+  date_start: "2009-01-01"
   description: ""
-  organization: Coursera
+  organization: FC Barcelona
   organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  title: Football
   url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
