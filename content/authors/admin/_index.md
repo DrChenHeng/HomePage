@@ -74,4 +74,4 @@ highlight_name: true
 
 Chen, Heng (陈衡) is a M.S. student, majored in plant genetic and breeding, at Zhang lab of IGA, CAS. His research interests include quantitative genetics, RNA biology and bioinfomatics. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
