@@ -1,15 +1,15 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Novel QTL and Meta-QTL Mapping for Major Quality Traits in Soybean
+summary: Isoflavone, protein, and oil are the most important quality traits in soybean. In this project, we utilized the QTL mapping and transcriptome analysis to investigate the major genes which influenced the accumulation of these compounds in soybean seed. Initially, several stable QTL associated with major quality traits were obtained via the combination of traditional quantitative genetic methods and meta analysis. And then, several candidate genes were obtained through integrating the gene functional annotation of QTL, and expression analysis with RNA atlas.
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+- QTL Mapping
+date: "2021-12-08T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Major
   focal_point: Smart
 
 links:
@@ -27,7 +27,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
