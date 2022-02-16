@@ -13,10 +13,10 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
+- icon: researchgate
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://www.researchgate.net/project/Novel-QTL-and-Meta-QTL-Mapping-for-Major-Quality-Traits-in-Soybean
 url_code: ""
 url_pdf: ""
 url_slides: ""
