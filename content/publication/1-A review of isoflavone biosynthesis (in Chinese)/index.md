@@ -2,7 +2,7 @@
 title: "Molecular Mechanisms of Isoflavone Biosynthesis and Regulation in Soybean: A Review"
 
 authors:
-- admin
+- Heng Chen
 - Xiangwen Pan
 - Feifei Wang
 - Changkai Liu
