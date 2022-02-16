@@ -5,7 +5,7 @@ title: "Novel QTL and Meta-QTL Mapping for Major Quality Traits in Soybean"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- <strong>Heng Chen</strong>
+- <span style="font-weight:bold">Heng Chen</span>
 - Xiangwen Pan
 - Feifei Wang
 - Changkai Liu
