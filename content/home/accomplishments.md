@@ -1,53 +1,107 @@
 ---
-# An instance of the Accomplishments widget.
+# An instance of the Featurette widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: accomplishments
+widget: featurette
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 50
 
-# Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Interests'
-subtitle:
+title: Interest
+subtitle: Personal Interest
 
-# Date format
-#   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+# Showcase personal skills or business features.
+# - Add/remove as many `feature` blocks below as you like.
+# - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
+feature:
+- description: Expert
+  icon: chart-line
+  icon_pack: fas
+  name: Data Analysis
+- description: Good
+  icon: flask
+  icon_pack: fad
+  name: Physiological Experiments
+- description: Good
+  icon: dna
+  icon_pack: fad
+  name: Molecular Experiments
+- description: Good
+  icon: m
+  icon_pack: fas
+  name: Meta-analysis
+- description: Good
+  icon: pen-swirl
+  icon_pack: fad
+  name: Academic Writing
+- description: Good
+  icon: r-project
+  icon_pack: fab
+  name: R
+- description: Good
+  icon: python
+  icon_pack: fab
+  name: Python
+- description: Studying
+  icon: camera-polaroid
+  icon_pack: fad
+  name: Photography
 
-# Accomplishments.
-#   Add/remove as many `item` blocks below as you like.
-#   `title`, `organization`, and `date_start` are the required parameters.
-#   Leave other parameters empty if not required.
-#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-item:
-- certificate_url: https://twitter.com/FCBarcelona?s=20&t=py8GOR9sM3Kt5ByEzSaXwg
-  date_end: ""
-  date_start: ""
-  description: "A crazy fan of Barca"
-  organization: FC Barcelona
-  organization_url: https://twitter.com/FCBarcelona?s=20&t=py8GOR9sM3Kt5ByEzSaXwg
-  title: Football
-  url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ""
 
-design:
-  columns: '2' 
+subtitle: Research Interest
+
+# Showcase personal skills or business features.
+# - Add/remove as many `feature` blocks below as you like.
+# - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
+feature:
+- description: Expert
+  icon: chart-line
+  icon_pack: fas
+  name: Data Analysis
+- description: Good
+  icon: flask
+  icon_pack: fad
+  name: Physiological Experiments
+- description: Good
+  icon: dna
+  icon_pack: fad
+  name: Molecular Experiments
+- description: Good
+  icon: m
+  icon_pack: fas
+  name: Meta-analysis
+- description: Good
+  icon: pen-swirl
+  icon_pack: fad
+  name: Academic Writing
+- description: Good
+  icon: r-project
+  icon_pack: fab
+  name: R
+- description: Good
+  icon: python
+  icon_pack: fab
+  name: Python
+- description: Studying
+  icon: camera-polaroid
+  icon_pack: fad
+  name: Photography
+
+
+# Uncomment to use emoji icons.
+#- icon: ":smile:"
+#  icon_pack: "emoji"
+#  name: "Emojiness"
+#  description: "100%"  
+
+# Uncomment to use custom SVG icons.
+# Place your custom SVG icon in `assets/media/icons/`.
+# Reference the SVG icon name (without `.svg` extension) in the `icon` field.
+# For example, reference `assets/media/icons/xyz.svg` as `icon: 'xyz'`
+#- icon: "your-custom-icon-name"
+#  icon_pack: "custom"
+#  name: "Surfing"
+#  description: "90%"
 ---
