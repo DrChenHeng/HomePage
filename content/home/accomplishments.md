@@ -10,7 +10,7 @@ headless: true
 weight: 30
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Personal Interests'
+title: 'Interests'
 subtitle:
 
 # Date format
@@ -23,12 +23,12 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: https://twitter.com/FCBarcelona?s=20&t=py8GOR9sM3Kt5ByEzSaXwg
   date_end: ""
-  date_start: "2009-01-01"
-  description: ""
+  date_start: ""
+  description: "A crazy fan of Barca"
   organization: FC Barcelona
-  organization_url: https://www.coursera.org
+  organization_url: https://twitter.com/FCBarcelona?s=20&t=py8GOR9sM3Kt5ByEzSaXwg
   title: Football
   url: ""
 - certificate_url: https://www.edx.org
