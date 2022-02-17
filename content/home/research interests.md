@@ -15,23 +15,23 @@ subtitle: Research Interests
 feature:
 - description: Expert
   icon: chart-line
-  icon_pack: fas
+  icon_pack: fa
   name: Data Analysis
 - description: Good
   icon: flask
-  icon_pack: fad
+  icon_pack: fab
   name: Physiological Experiments
 - description: Good
   icon: dna
-  icon_pack: fad
+  icon_pack: fab
   name: Molecular Experiments
 - description: Good
   icon: m
-  icon_pack: fas
+  icon_pack: fa
   name: Meta-analysis
 - description: Good
   icon: pen-swirl
-  icon_pack: fad
+  icon_pack: fab
   name: Academic Writing
 - description: Good
   icon: r-project
@@ -43,7 +43,7 @@ feature:
   name: Python
 - description: Studying
   icon: camera-polaroid
-  icon_pack: fad
+  icon_pack: fab
   name: Photography
 
 
