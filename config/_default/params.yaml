@@ -7,7 +7,7 @@
 
 theme: Ocean
 day_night: true
-font: ''
+font: 'Rose'
 font_size: L
 
 # SEO
@@ -66,7 +66,7 @@ main_menu:
 
 # Localization
 
-date_format: 'Jan 2, 2006'
+date_format: 'Jan 31, 2022'
 time_format: '3:04 PM'
 address_format: en-us
 
