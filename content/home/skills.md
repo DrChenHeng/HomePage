@@ -29,7 +29,7 @@ feature:
   icon_pack: fas
   name: Molecular Experiments
 - description: Good
-  icon: circle-m
+  icon: chart-network
   icon_pack: fas
   name: Meta-analysis
 - description: Good
