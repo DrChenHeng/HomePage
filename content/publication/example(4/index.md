@@ -36,6 +36,8 @@ publication_short: In *Soils & Crops*
 
 abstract: Soy isoflavone,a kind of plant secondary metabolite,is a group of 3-phenyl derivative synthesized by cinnamyl-Co A. Soy isoflavone is referred to as phytoestrogen,for it reduces blood pressure,alleviates menopausal symptoms and has numerous other features as well. To provide a reference for further research of isoflavone biosynthesis and molecular breeding of soybean with high isoflavone contents,this review focused the research development on the enzymes and genes related to the biosynthesis of isoflavone,and highlighted transcription factors and their genes controlling this biosynthesis pathway based on a brief overview of QTLs influencing the isoflavone contents in soybean. Some questions and future research avenue of this research area were presented as well.
 
+大豆异黄酮，是由肉桂酰辅酶A产生的3-苯基衍生物，属植物次生代谢产物。它具有降血压、缓解更年期综合症等诸多功效，被称为“植物雌激素”。本文在阐述影响大豆子粒中异黄酮含量的QTL位点的基础上，重点综述了异黄酮生物合成途径中的多种酶和相关基因，以及调控该途径中相关酶系基因表达的转录因子和相关基因，并分析探讨了该领域一些亟待解决的问题和未来发展的方向，以期为深入研究大豆异黄酮合成的分子机制及高异黄酮大豆分子育种提供理论参考。
+
 # Summary. An optional shortened abstract.
 summary: 
 
@@ -49,7 +51,7 @@ featured: true
 # - name: Related Link
 #   url: https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=TRZW202102002&uniplatform=NZKPT&v=KVUElG2mvYg1uipEIzZqFeDXPL988AJ-OLVKQQOp3ijcLs1Wdv7bbwv9xQJ7xzCo
 
-url_pdf: ''
+url_pdf: 'https://mail.qq.com/cgi-bin/download?mailid=ZL0018_h7TN_rGMFhYuyY0AEPe1Vc2&filename=Quality+traits.pdf&sid=dkXfTANLMjI9B0Mh'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -71,7 +73,8 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- QTL mapping for Quality traits in Soybean
+- QTL mapping
+- Isoflavone
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

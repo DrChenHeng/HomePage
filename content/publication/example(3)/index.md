@@ -49,7 +49,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://www.frontiersin.org/articles/10.3389/fpls.2021.774270/pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -71,7 +71,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- QTL mapping for Quality traits in Soybean
+- QTL Mapping
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
