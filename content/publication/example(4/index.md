@@ -1,11 +1,11 @@
 ---
-title: "Novel QTL and Meta-QTL Mapping for Major Quality Traits in Soybean"
+title: "Molecular Mechanisms of Isoflavone Biosynthesis and Regulation in Soybean: A Review"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Heng Chen
+- admin
 - Xiangwen Pan
 - Feifei Wang
 - Changkai Liu
@@ -18,8 +18,8 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2021-12-08T00:00:00Z"
-doi: "10.3389/fpls.2021.774270"
+date: "2021-06-01T00:00:00Z"
+doi: "10.11689/j.issn.2095－2961.2021.02.002"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-12-08T00:00:00Z"
