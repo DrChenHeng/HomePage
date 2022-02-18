@@ -3,8 +3,6 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: accomplishments
 
-active: false
-
 # This file represents a page section.
 headless: true
 
@@ -12,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'accomplishments'
+title: 'Accomplish&shy;ments'
 subtitle:
 
 # Date format
@@ -25,13 +23,13 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://twitter.com/FCBarcelona?s=20&t=py8GOR9sM3Kt5ByEzSaXwg
+- certificate_url: https://www.coursera.org
   date_end: ""
-  date_start: ""
-  description: "A crazy fan of Barca"
-  organization: FC Barcelona
-  organization_url: https://twitter.com/FCBarcelona?s=20&t=py8GOR9sM3Kt5ByEzSaXwg
-  title: Football
+  date_start: "2021-01-25"
+  description: ""
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: Neural Networks and Deep Learning
   url: ""
 - certificate_url: https://www.edx.org
   date_end: ""

@@ -16,39 +16,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Expert
-  icon: chart-line
-  icon_pack: fas
-  name: Data Analysis
-- description: Good
-  icon: flask
-  icon_pack: fas
-  name: Physiological Experiments
-- description: Good
-  icon: dna
-  icon_pack: fas
-  name: Molecular Experiments
-- description: Good
-  icon: m
-  icon_pack: fas
-  name: Meta-analysis
-- description: Good
-  icon: pen-swirl
-  icon_pack: fas
-  name: Academic Writing
-- description: Good
+- description: 90%
   icon: r-project
   icon_pack: fab
   name: R
-- description: Good
-  icon: python
-  icon_pack: fab
-  name: Python
-- description: Studying
-  icon: camera-polaroid
+- description: 100%
+  icon: chart-line
+  icon_pack: fas
+  name: Statistics
+- description: 10%
+  icon: camera-retro
   icon_pack: fas
   name: Photography
-
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
