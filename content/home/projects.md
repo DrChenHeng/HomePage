@@ -27,10 +27,14 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: QTL Mapping
+    tag: QTL Mapping
+  - name: Genes of Isoflavone
+    tag: Genes of Isoflavone
+  - name: Genes of Pro and Oil
+    tag: Genes of Pro and Oil
+  - name: Genes of Amino Acid
+    tag: Genes of Amino Acid
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

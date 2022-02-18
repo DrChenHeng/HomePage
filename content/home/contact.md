@@ -1,5 +1,6 @@
 ---
 # An instance of the Contact widget.
+# Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: contact
 
 # This file represents a page section.
@@ -22,35 +23,45 @@ content:
       id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: true
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: Chenheng19@mails.ucas.ac.cn
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: No.1666 Beijing East Road
+    city: Nanchang
+    region: Jiangxi Province
+    postcode: '330000'
+    country: China
+    country_code: CHN
   coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+    - 'Weekday 09:00 to 17:00'
+    - 'Weekend 09:00 to 11:30'
   contact_links:
+    - icon: weibo
+      icon_pack: fab
+      name: Weibo
+      link: 'https://weibo.com/Chenheng970321'
+    - icon: zhihu
+      icon_pack: fab
+      name: Zhihu
+      link: 'https://www.zhihu.com/people/chen-heng-69-69'
+    - icon: facebook
+      icon_pack: fab
+      name: Facebook
+      link: 'https://www.facebook.com/PatrickStar1908'
     - icon: twitter
       icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
+      name: Twitter
+      link: 'https://twitter.com/chenheng1908'
     - icon: video
       icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+      name: Zoom
+      link: 'https://us02web.zoom.us/j/9174688460?pwd=SkdwR0tzVno2RTBINGxRcFk5Mm52Zz09'
+
 
 design:
   columns: '2'
