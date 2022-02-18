@@ -23,6 +23,11 @@ interests:
 - Transcriptome Analysis
 - Bioinformatics
 
+- Football
+- Basketball
+- Badminton
+- Marxist philosophy
+
 # Education to show in About widget
 education:
   courses:
