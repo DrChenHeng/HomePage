@@ -29,13 +29,9 @@ feature:
   icon_pack: fas
   name: Molecular Experiments
 - description: Good
-  icon: m
+  icon: circle-m
   icon_pack: fas
   name: Meta-analysis
-- description: Good
-  icon: pen-swirl
-  icon_pack: fas
-  name: Academic Writing
 - description: Good
   icon: r-project
   icon_pack: fab
@@ -44,8 +40,8 @@ feature:
   icon: python
   icon_pack: fab
   name: Python
-- description: Studying
-  icon: camera-polaroid
+- description: improving
+  icon: camera
   icon_pack: fas
   name: Photography
 
