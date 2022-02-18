@@ -45,9 +45,9 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Related Link
-#   url: https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=TRZW202102002&uniplatform=NZKPT&v=KVUElG2mvYg1uipEIzZqFeDXPL988AJ-OLVKQQOp3ijcLs1Wdv7bbwv9xQJ7xzCo
+ links:
+ - name: Related Link
+   url: https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=TRZW202102002&uniplatform=NZKPT&v=KVUElG2mvYg1uipEIzZqFeDXPL988AJ-OLVKQQOp3ijcLs1Wdv7bbwv9xQJ7xzCo
 
 url_pdf: 'https://mail.qq.com/cgi-bin/download?mailid=ZL0018_h7TN_rGMFhYuyY0AEPe1Vc2&filename=Quality+traits.pdf&sid=dkXfTANLMjI9B0Mh'
 url_code: ''
