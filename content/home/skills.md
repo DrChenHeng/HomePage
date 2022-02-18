@@ -40,7 +40,7 @@ feature:
   icon: python
   icon_pack: fab
   name: Python
-- description: improving
+- description: Improving
   icon: camera
   icon_pack: fas
   name: Photography

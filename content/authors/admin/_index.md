@@ -71,6 +71,6 @@ email: ""
 highlight_name: true
 ---
 
-Chen, Heng (陈衡) is a M.S. student, majored in plant genetic and breeding, at Zhang lab of IGA, CAS. His research interests include quantitative genetics, RNA biology and bioinfomatics. 
+Chen, Heng (陈衡) is a M.S. student, majored in plant genetic and breeding, at Zhang lab of IGA, CAS. His research interests include quantitative genetics, RNA biology and bioinfomatics. He also has a passion for sports, especially football and basketball, who has been adoring FC Barcelona and Los Angeles Lakers for fourteen years. Mr. Chen always proclaims himself a marxist, though he has read only a few chapters of "Mao selection" and "Das Kapital".
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
