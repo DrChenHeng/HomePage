@@ -1,36 +1,40 @@
 ---
-title: "Nutritional and Health Benefits of Soybean to Human Immunity"
+title: "Novel QTL and Meta-QTL Mapping for Major Quality Traits in Soybean"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
+- Xiangwen Pan
+- Feifei Wang
+- Changkai Liu
+- Xue Wang
+- Yansheng Li
 - Qiuying Zhang
-- Xiaobing Liu
 
 # Author notes (optional)
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2021-11-15T00:00:00Z"
-doi: ""
+date: "2021-12-08T00:00:00Z"
+doi: "10.3389/fpls.2021.774270"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-12-08T00:00:00Z"
+publishDate: "2021-12-08T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["6"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Plants for Immunity*
-publication_short: In *Plants for Immunity*
+publication: In *Frontiers in Plant Sciences*
+publication_short: In *Front. Plant Sci*
 
-abstract: Soybean is one of the most important crops in the world, which is not only adapted to cultivate under various environmental conditions, but also abundant in crucial nutritional ingredients for human, such as soy protein, soy isoflavone and several bioactive components. Soy protein might be the most important nutritional component in soybean, because it provides all amino acids and several bioactive peptides for human health, which could lower cholesterol levels and may resist virus infection. Soy isoflavone usually refers as phytoestrogen, which has the functions of resisting breast cancer and relieving menopause syndrome. Soybean oil could reduce the plasma cholesterol, while saponins exhibits the bioactivity of resisting HIV and preventing osteoporosis. As for phytosterol, it has the functions of decreasing blood cholesterol levels and reducing the intestinal absorption of dietary and endogenous cholesterol. Soybean and its derived products have great potential in enhancing human immunity. In a word, soybean, a tiny seed from China, is both of highly nutritional and medical value for human health and immunity, and therefore could protect billions of people in the world.
+abstract: Isoflavone, protein, and oil are the most important quality traits in soybean. Since these phenotypes are typically quantitative traits, quantitative trait locus (QTL) mapping has been an efficient way to clarify their complex and unclear genetic background. However, the low-density genetic map and the absence of QTL integration limited the accurate and efficient QTL mapping in previous researches. This paper adopted a recombinant inbred lines (RIL) population derived from ‘Zhongdou27’and ‘Hefeng25’ and a high-density linkage map based on whole-genome resequencing to map novel QTL and used meta-analysis methods to integrate the stable and consentaneous QTL. The candidate genes were obtained from gene functional annotation and expression analysis based on the public database. A total of 41 QTL with a high logarithm of odd (LOD) scores were identified through composite interval mapping (CIM), including 38 novel QTL and 2 Stable QTL. A total of 660 candidate genes were predicted according to the results of the gene annotation and public transcriptome data. A total of 212 meta-QTL containing 122 stable and consentaneous QTL were mapped based on 1,034 QTL collected from previous studies. For the first time, 70 meta-QTL associated with isoflavones were mapped in this study. Meanwhile, 69 and 73 meta-QTL, respectively, related to oil and protein were obtained as well. The results promote the understanding of the biosynthesis and regulation of isoflavones, protein, and oil at molecular levels, and facilitate the construction of molecular modular for great quality traits in soybean.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -45,7 +49,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://mail.qq.com/cgi-bin/download?mailid=ZL0018_~snNldqMlZUuCEwATVTPMc2&filename=Soybean++for+Immunity.pdf&sid=dkXfTANLMjI9B0Mh'
+url_pdf: 'https://www.frontiersin.org/articles/10.3389/fpls.2021.774270/pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -57,7 +61,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'The biosynthetic pathway for flavanols, anthocyanins, and PAs in Arabidopsis.'
+  caption: 'The background of major quality traits in soybean'
   focal_point: ""
   preview_only: false
 
@@ -67,7 +71,9 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
+- QTL Mapping
 - Isoflavone
+- Protein and Oil
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -76,3 +82,4 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
