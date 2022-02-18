@@ -1,5 +1,5 @@
 ---
-title: "Molecular Mechanisms of Isoflavone Biosynthesis and Regulation in Soybean: A Review"
+title: "Molecular Mechanisms of Isoflavone Biosynthesis and Regulation in Soybean: A Review (In Chinese with English abstract)"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
