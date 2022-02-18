@@ -5,11 +5,18 @@
 
 # Appearance
 
+<<<<<<< HEAD
 appearance:
   theme_day: minimal
   theme_night: minimal
   font: minimal
   font_size: L
+=======
+theme: Minimal
+day_night: true
+font: ''
+font_size: L
+>>>>>>> 731b4209e4a54cec08646c461876b0b9fff3cff0
 
 # SEO
 
