@@ -72,6 +72,8 @@ image:
 #   Otherwise, set `projects: []`.
 projects:
 - QTL Mapping
+- Isoflavone
+- Protein and Oil
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
