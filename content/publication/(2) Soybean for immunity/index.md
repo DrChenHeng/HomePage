@@ -15,7 +15,7 @@ authors:
 #- "Equal contribution"
 
 date: "2021-12-22T00:00:00Z"
-doi: ""
+#doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-02-08T00:00:00Z"
@@ -42,8 +42,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 # links:
- - name: Preprint
-   url: 
+# - name: Preprint
+#   url: 
 
 url_pdf: 'https://mail.qq.com/cgi-bin/download?mailid=ZL0018_~snNldqMlZUuCEwATVTPMc2&filename=Soybean++for+Immunity.pdf&sid=dkXfTANLMjI9B0Mh'
 url_code: ''
