@@ -49,7 +49,7 @@ links:
  - name: Link
    url: https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=TRZW202102002&uniplatform=NZKPT&v=KVUElG2mvYg1uipEIzZqFeDXPL988AJ-OLVKQQOp3ijcLs1Wdv7bbwv9xQJ7xzCo
 
-url_pdf: 'content/publication/(1) A review of isoflavone biosynthesis (in Chinese)/example.pdf'
+url_pdf: 'publications/Molecular Mechanisms of Isoflavone Biosynthesis and Regulation in Soybean A Review.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
