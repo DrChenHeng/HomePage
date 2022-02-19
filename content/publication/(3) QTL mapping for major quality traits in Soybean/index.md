@@ -51,7 +51,8 @@ featured: true
 
 url_pdf: 'https://www.frontiersin.org/articles/10.3389/fpls.2021.774270/pdf'
 url_code: ''
-url_dataset: ''
+url_dataset-1: 'https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA778303'
+url_dataset-2: 'https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA778408'
 url_poster: ''
 url_project: ''
 url_slides: ''
