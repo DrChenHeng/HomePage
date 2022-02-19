@@ -45,7 +45,7 @@ featured: true
 # - name: Preprint
 #   url: 
 
-url_pdf: 'publications/Nutritional and Health Benefits of Soybean to Human Immunity'
+url_pdf: 'publications/Nutritional and Health Benefits of Soybean to Human Immunity.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
