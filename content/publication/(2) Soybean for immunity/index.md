@@ -45,7 +45,7 @@ featured: true
 # - name: Preprint
 #   url: 
 
-url_pdf: 'https://mail.qq.com/cgi-bin/download?mailid=ZL0018_~snNldqMlZUuCEwATVTPMc2&filename=Soybean++for+Immunity.pdf&sid=dkXfTANLMjI9B0Mh'
+url_pdf: 'publications/Soybean for Immunity'
 url_code: ''
 url_dataset: ''
 url_poster: ''
