@@ -33,7 +33,7 @@ coordinates:
   longitude: '115.96911'
 office_hours:
   - 'Weekday 09:00 to 17:01'
-  - 'Weekend 09:00 to 11:30'
+  - 'Weekend 09:00 to 11:31'
 contact_links:
   - icon: weibo
     icon_pack: fab
