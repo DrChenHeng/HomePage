@@ -57,10 +57,7 @@ content:
       icon_pack: fab
       name: Twitter
       link: 'https://twitter.com/chenheng1908'
-    - icon: video
-      icon_pack: fas
-      name: Zoom
-      link: 'https://us02web.zoom.us/j/9174688460?pwd=SkdwR0tzVno2RTBINGxRcFk5Mm52Zz09'
+
 
 
 design:

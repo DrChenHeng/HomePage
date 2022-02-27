@@ -31,6 +31,11 @@ address:
 coordinates:
   latitude: '28.4275'
   longitude: '115.1697'
+features:
+  map:
+    provider: 'mapnik'
+    api_key: ''
+    zoom: 15
 office_hours:
   - 'Weekday 09:00 to 17:00'
   - 'Weekend 09:00 to 11:30'
