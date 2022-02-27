@@ -14,7 +14,7 @@ organizations:
   url: https://www.ucas.ac.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include quantitative genetics, RNA biology and epigenetics.
+bio: My heart will go on.
 
 # Interests to show in About widget
 interests:
