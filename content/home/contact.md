@@ -21,8 +21,6 @@ content:
     provider: formspree
     formspree:
       id: xayvjyjz
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: true
 
   # Contact details (edit or remove options as required)
   email: Chenheng19@mails.ucas.ac.cn
