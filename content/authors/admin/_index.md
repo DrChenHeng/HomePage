@@ -54,7 +54,7 @@ social:
 - icon: researchgate
   icon_pack: fab
   link: 'https://www.researchgate.net/profile/Heng-Chen-25'
-- icon: linkedin
+- icon: linkedin-in
   icon_pack: fab
   link: https://www.linkedin.com/in/Dr-Hugo-Chen
 - icon: orcid
