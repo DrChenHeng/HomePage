@@ -20,8 +20,9 @@ bio: My heart will go on.
 interests:
 - Quality Traits in Soybean
 - Quantitative Trait Loci (QTL)
-- Transcriptome Analysis
+- RNA Structure Biology
 - Bioinformatics
+- Epigenetics
 
 # Education to show in About widget
 education:
@@ -71,6 +72,6 @@ email: ""
 highlight_name: true
 ---
 
-Chen, Heng (陈  衡) is a M.S. student, majored in plant genetic and breeding, at Zhang lab of IGA, CAS. His research interests include quantitative genetics, RNA biology and bioinfomatics. He also has a passion for sports, especially football and basketball, who has been adoring FC Barcelona and Los Angeles Lakers for fourteen years. Mr. Chen always proclaims himself a marxist, though he has read only a few chapters of "Selected Works of Mao Tse-Tung" and "Das Kapital".
+Chen, Heng (陈  衡) is a M.S. student, majored in plant genetic and breeding, at Zhang lab of IGA, CAS. His current research focuses on understanding the quantitative traits in soybean, including isoflavones, protein and oil. Two approaches are utilized to develop the research: QTL mapping and dynamic transcriptome analysis. The meta-analysis was used in his research as an assistant tool, as well. His research interests include quantitative genetics, RNA biology, epigenetics and bioinfomatics. He also has a passion for sports, especially football and basketball, who has been adoring FC Barcelona and Los Angeles Lakers for fourteen years. Mr. Chen always proclaims himself a marxist, though he has read only a few chapters of "Selected Works of Mao Tse-Tung" and "Das Kapital".
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
