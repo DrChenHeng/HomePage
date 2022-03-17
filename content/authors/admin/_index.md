@@ -48,6 +48,9 @@ social:
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: http://www.scopus.com/inward/authorDetails.url?authorID=57222151727&partnerID=MN8TOARS
+- icon: google-plus-g
+  icon_pack: fab
+  link: 'https://scholar.google.com/citations?hl=en&user=7Yqc_zsAAAAJ'
 - icon: researchgate
   icon_pack: fab
   link: 'https://www.researchgate.net/profile/Heng-Chen-25'
