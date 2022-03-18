@@ -22,40 +22,7 @@ content:
     formspree:
       id: xayvjyjz
 
-  # Contact details (edit or remove options as required)
-  email: Chenheng19@mails.ucas.ac.cn
-  address:
-    street: No.138 Haping Road
-    city: Harbin
-    region: Heilongjiang Province
-    postcode: '150081'
-    country: China
-    country_code: CHN
-  coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  office_hours:
-    - 'Weekday 09:00 to 17:00'
-    - 'Weekend 09:00 to 11:30'
-  contact_links:
-    - icon: weibo
-      icon_pack: fab
-      name: Weibo
-      link: 'https://weibo.com/Chenheng970321'
-    - icon: zhihu
-      icon_pack: fab
-      name: Zhihu
-      link: 'https://www.zhihu.com/people/chen-heng-69-69'
-    - icon: facebook
-      icon_pack: fab
-      name: Facebook
-      link: 'https://www.facebook.com/PatrickStar1908'
-    - icon: twitter
-      icon_pack: fab
-      name: Twitter
-      link: 'https://twitter.com/chenheng1908'
-
-
+ 
 
 design:
   columns: '2'
