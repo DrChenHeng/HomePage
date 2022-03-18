@@ -6,7 +6,7 @@ title: "Nutritional and Health Benefits of Soybean to Human Immunity (Book Secti
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Qiuying Zhang
+- Qiuying Zhang*
 - Xiaobing Liu
 
 # Author notes (optional)

@@ -11,7 +11,7 @@ authors:
 - Changkai Liu
 - Xue Wang
 - Yansheng Li
-- Qiuying Zhang
+- Qiuying Zhang*
 
 # Author notes (optional)
 #author_notes:
