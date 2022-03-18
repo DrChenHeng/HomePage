@@ -6,7 +6,7 @@ title: "Molecular Mechanisms of Isoflavone Biosynthesis and Regulation in Soybea
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin*
-- Xiangwen Pan
+- Xiangwen
 - Feifei Wang
 - Changkai Liu
 - Xue Wang
