@@ -25,10 +25,10 @@ content:
   # Contact details (edit or remove options as required)
   email: Chenheng19@mails.ucas.ac.cn
   address:
-    street: No.1666 Beijing East Road
-    city: Nanchang
-    region: Jiangxi Province
-    postcode: '330000'
+    street: No.138 Haping Road
+    city: Harbin
+    region: Heilongjiang Province
+    postcode: '150081'
     country: China
     country_code: CHN
   coordinates:
