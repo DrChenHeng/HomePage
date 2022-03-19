@@ -139,13 +139,14 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: 'google'
+  provider: 'mapnik'
   api_key: ''
   zoom: 15
 marketing:
   google_analytics: 'G-NFFJBC0WSM'
   google_tag_manager: ''
   google_site_verification: ''
+  microsoft_clarity: 'b39v7ictkc'
   baidu_site_verification: ''
   baidu_tongji: 'ee25a0e7def13b0281129d2e3d8c1389'
 
