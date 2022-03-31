@@ -24,20 +24,6 @@ interests:
 - Bioinformatics
 - Epigenetics
 
-Work Experiences:
-- Quality Traits in Soybean
-- Quantitative Trait Loci (QTL)
-- RNA Structure Biology
-- Bioinformatics
-- Epigenetics
-
-Awards:
-- Quality Traits in Soybean
-- Quantitative Trait Loci (QTL)
-- RNA Structure Biology
-- Bioinformatics
-- Epigenetics
-
 # Education to show in About widget
 education:
   courses:
