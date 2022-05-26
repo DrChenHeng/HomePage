@@ -33,7 +33,7 @@ education:
   - course: BSc in Finance
     institution: Nanchang University
     year: 2015 to 2017
-  - course: BSc in Bioengineering
+  - course: BEng in Bioengineering
     institution: Nanchang University
     year: 2014 to 2018
 
@@ -77,4 +77,4 @@ highlight_name: true
 
 Chen, Heng (陈  衡) is a M.S. student majored in plant genetic and breeding at IGA, CAS, whose supervisors are {{< staticref "http://www.igahrb.cas.cn/rcjs/zg/index_89519.html?json=http://sourcedb.neigaehrb.cas.cn/zw/zjrc/202112/t20211201_6283837.json" "newtab" >}}Prof. Zhang{{< /staticref >}} and {{< staticref "http://www.igahrb.cas.cn/rcjs/zg/index_89519.html?json=http://sourcedb.neigaehrb.cas.cn/zw/zjrc/202112/t20211201_6283887.json" "newtab" >}}Prof. Liu{{< /staticref >}}. His current research focuses on understanding the quantitative traits in soybean, including isoflavones, protein and oil. Two approaches are utilized to develop the research: QTL mapping and dynamic transcriptome analysis. The meta-analysis was used in his research as an assistant tool, as well. His research interests include quantitative genetics, RNA biology, epigenetics and bioinfomatics. He also has a passion for sports, especially football and basketball, who has been adoring FC Barcelona and Los Angeles Lakers for fourteen years. Mr. Chen always proclaims himself a marxist, though he has read only a few chapters of {{< staticref "https://www.marxists.org/reference/archive/mao/selected-works/index.htm" "newtab" >}}Selected Works of Mao Tse-Tung{{< /staticref >}} and {{< staticref "https://www.marxists.org/archive/marx/works/1867-c1/ch01.htm" "newtab" >}}Das Kapital{{< /staticref >}}.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
