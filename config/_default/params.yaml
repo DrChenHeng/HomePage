@@ -29,8 +29,8 @@ address:
   country: China
   country_code: CHN
 coordinates:
-  latitude: '40.09968'
-  longitude: '116.28246'
+  latitude: '40.095688'
+  longitude: '116.26868'
 office_hours:
   - 'Weekday 09:00 to 17:00'
   - 'Weekend 09:00 to 11:30'
