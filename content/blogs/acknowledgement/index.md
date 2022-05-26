@@ -12,7 +12,7 @@ projects: []
 date: "2022-05-16T00:00:00Z"
 
 # Date updated
-lastmod: "022-05-16T00:00:00Z"
+lastmod: "2022-05-16T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -40,6 +40,9 @@ categories:
 
 ---
 
+
+## Overview
+
 这是一篇不太优秀的致谢：既写不来优美华丽的辞藻，又做不出生动形象的比喻，更列不起气势磅礴的排比；还好，情感是真的，容不得一点水分。
 先来一个摘要版（太长不看版）致谢吧：感谢大家！首先，感谢张老师和刘老师的悉心指导；同时，感谢每一位老师的答疑解惑，感谢同学们的无私相助，感谢国科大和地理所每一位同志的辛勤付出，感谢亲朋好友们的支持关照，感谢中科院先导项目的资金支持；最后，感谢余老师，感谢贝贝；最后的最后，感谢父母，感谢妻儿。
 以下是正文部分。
@@ -49,10 +52,3 @@ categories:
 此外，还要感谢三位师兄（姐）：刘长锴博士，王雪博士以及涂冰洁博士。作为组里最啰嗦的小师弟，你们的包容和帮助让我这几年的硕士生涯过得很愉快。我永远记得，我们的身影，曾遍布组里的每一块实验田。还要感谢王光华研究员和金剑研究员对我的解惑指导，感谢师兄刘俊杰研究员、师兄李彦生博士、师姐于镇华博士、师姐胡晓婧博士对我的无私帮助。并且，感谢已毕业的师兄李森博士，师姐周萌和王春雨。感谢师姐郭丽丽和徐影，全靠你们，我和“农田分子生态”学科组其他伙伴才能紧密联系在一起。感谢师兄谢志煌、师兄张锦源、师兄白鑫、师兄刘株秀、师兄张春雨、师兄顾海东和师姐宣可欣。感谢同学樊艳丽、同学肖扬和同学高志颖。感谢师弟王永彬、师弟包文彬、师妹张淼、师妹王璐、师弟雷进田和师弟龙永。感谢农田分子生态学科组的每一位成员。并且，还要感谢地理所和国科大的许多老师和同学们。感谢潘相文博士，感谢王飞飞博士，感谢夏正俊研究员，感谢方军研究员，感谢胡岩峰博士，感谢东北地理所每一位老师。感谢王少青老师，感谢贾子薇老师，感谢国科大的每一位老师。感谢同学万昭，感谢同学邱冠凯，感谢同学龙静泓，感谢同学宋露，感谢同学邹狮，感谢19级东北地理所的每一位同学。感谢室友张必成，感谢274宿舍的每一位成员，感谢1901班的每一位同学。感谢硕士期间遇见的每一位同志，感谢亲朋好友们的支持关照，感谢中科院先导项目的资金支持。
 并且，还要感谢中学班主任余永艺老师对我的帮助，我从一个少不更事的孩子，成长为一位求真上进的青年，离不开您的帮助。在南昌十中的五年里，是您的呵护、您的教诲、您的鞭策使我走在了前进的大道上。在之后的人生里，也是您的帮助，使我不断进步。所谓大音希声，大象无形，您对我的关爱也大抵如此吧——自然却又无微不至，像春风，如薄雪，似清水，若暖阳。还要感谢我妹妹陈衎同学，你厉害。感谢我的岳父朱华勇先生和岳母应爱玉女士，感谢你们对我的爱人、女儿以及我的照顾。最后，感谢我的父亲陈群华同志和母亲陈雪梅同志，你们是最伟大的人。同时感谢“老陈家基金会”对本人的大力支持。最后的最后，感谢吾爱朱凯滟同志，及吾爱陈蓁（陈柠檬/Jasmine）小朋友，你们是最可爱的人。感谢陈衡，希望你自由而全面的发展。
 大论文写到这里，了了六万字，也算是给自己不太完美的硕士生涯填上了一个不太规整的句号。这个小小的句号里，有辛酸，有甘甜，有失败，有成就。本以为写到这部分我会十分激动，感慨万千，可如今真到了这一刻，却反而相当平静。一期硕士，短短三年而已，却经历了很多，收获了不少。在我人生短短的25年里，能够有如此丰富的经历，遇见这么多人，是我莫大的幸运。祝福我们大家，都有光明的未来。
-
-## Overview
-
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
-
