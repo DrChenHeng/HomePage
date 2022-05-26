@@ -29,12 +29,11 @@ content:
     tag: '*'
   - name: QTL Mapping
     tag: QTL Mapping
-  - name: Isoflavone
-    tag: Isoflavone
-  - name: Protein and Oil
-    tag: Protein and Oil
-  - name: Amino Acid
-    tag: Amino Acid
+  - name: Dynamic Transcriptome
+    tag: Dynamic Transcriptome
+  - name: DNA Methylation
+    tag: DNA Methylation
+
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
