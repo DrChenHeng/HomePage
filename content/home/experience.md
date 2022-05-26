@@ -45,7 +45,7 @@ experience:
     location: Beijing, China
     date_start: '2022-05-01'
     date_end: ''
-#    description: Taught electronic engineering and researched semiconductor physics.
+    description: Taught electronic engineering and researched semiconductor physics.
       Responsibilities include:
         
         * Collected, integrated and processed the submission
