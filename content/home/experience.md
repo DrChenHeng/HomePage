@@ -25,7 +25,7 @@ experience:
   - title: Research Assistant
     company: NIBS
     company_url: 'http://www.nibs.ac.cn/en/index.php'
-    company_logo: org-gc
+    company_logo: 
     location: Beijing, China
     date_start: '2022-06-01'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
   - title: Academic Editing Intern
     company: Bio-protocol
     company_url: 'https://bio-protocol.org/cn/default.aspx'
-    company_logo: org-x
+    company_logo: 
     location: Beijing, China
     date_start: '2022-05-01'
     date_end: ''
