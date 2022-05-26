@@ -47,7 +47,7 @@ experience:
       Responsibilities include:
         
         * Collected, integrated and processed the submission
-        * Integrated and reviewed the discussion (Q&A part)
+        * Integrated and reviewed the discussion
         * Wrote and edited academic content for Bio-101
 
 design:
