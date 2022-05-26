@@ -6,23 +6,23 @@ title: Heng Chen
 superuser: true
 
 # Role/position/tagline
-role: M.S. Student of Plant Biology
+role: Research Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Chinese Academy of Sciences
-  url: https://www.ucas.ac.cn/
+- name: National Institute of Biological Sciences
+  url: http://www.nibs.ac.cn/en/index.php
 
 # Short bio (displayed in user profile at end of posts)
 bio: My heart will go on.
 
 # Interests to show in About widget
 interests:
-- Quality Traits in Soybean
-- Quantitative Trait Loci (QTL)
-- RNA Structure Biology
-- Bioinformatics
 - Epigenetics
+- Quantitative Genetics
+- Bioinformatics
+- RNA Structure Biology
+- Gene Editing
 
 # Education to show in About widget
 education:
@@ -75,6 +75,6 @@ email: ""
 highlight_name: true
 ---
 
-Chen, Heng (陈  衡) is a M.S. student majored in plant genetic and breeding at IGA, CAS, whose supervisors are {{< staticref "http://www.igahrb.cas.cn/rcjs/zg/index_89519.html?json=http://sourcedb.neigaehrb.cas.cn/zw/zjrc/202112/t20211201_6283837.json" "newtab" >}}Prof. Zhang{{< /staticref >}} and {{< staticref "http://www.igahrb.cas.cn/rcjs/zg/index_89519.html?json=http://sourcedb.neigaehrb.cas.cn/zw/zjrc/202112/t20211201_6283887.json" "newtab" >}}Prof. Liu{{< /staticref >}}. His current research focuses on understanding the quantitative traits in soybean, including isoflavones, protein and oil. Two approaches are utilized to develop the research: QTL mapping and dynamic transcriptome analysis. The meta-analysis was used in his research as an assistant tool, as well. His research interests include quantitative genetics, RNA biology, epigenetics and bioinfomatics. He also has a passion for sports, especially football and basketball, who has been adoring FC Barcelona and Los Angeles Lakers for fourteen years. Mr. Chen always proclaims himself a marxist, though he has read only a few chapters of {{< staticref "https://www.marxists.org/reference/archive/mao/selected-works/index.htm" "newtab" >}}Selected Works of Mao Tse-Tung{{< /staticref >}} and {{< staticref "https://www.marxists.org/archive/marx/works/1867-c1/ch01.htm" "newtab" >}}Das Kapital{{< /staticref >}}.
+Chen, Heng (陈  衡) is a research assistant at {{< staticref "http://www.nibs.ac.cn/en/yjsjyimgshow.php?cid=5&sid=6&id=766" "newtab" >}}He lab{{< /staticref >}} of National Institue of Biological Sciences. His current research focuses on understanding the molecular mechanisms of DNA methylation and histone modifications dynamically regulating plant development and adaptation to environments. He also investigated the quantitative traits (such as isoflavones, protein and oil) in soybean based on the QTL mapping, transcriptome analysis and meta-analysis. Addtionally, Mr. Chen' s research interests include bioinfomatics, gene editing, RNA secondary structure, photomorphosis and domestication. He also has a passion for sports, especially football and basketball, who has been adoring FC Barcelona and Los Angeles Lakers for fourteen years. Mr. Chen always proclaims himself a marxist, though he has read only a few chapters of {{< staticref "https://www.marxists.org/reference/archive/mao/selected-works/index.htm" "newtab" >}}Selected Works of Mao Tse-Tung{{< /staticref >}} and {{< staticref "https://www.marxists.org/archive/marx/works/1867-c1/ch01.htm" "newtab" >}}Das Kapital{{< /staticref >}}.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
