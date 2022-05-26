@@ -3,8 +3,6 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
 
-active: true
-
 # This file represents a page section.
 headless: true
 
@@ -24,33 +22,28 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research Assistant
-    company: NIBS
-    company_url: 'http://www.nibs.ac.cn/en/index.php'
+  - title: CEO
+    company: GenCoin
+    company_url: ''
     company_logo: org-gc
-    location: Beijing, China
-    date_start: '2022-06-01'
+    location: California
+    date_start: '2021-01-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Processed and analyzed sequencing data
-        * Carried out research related to DNA methylation and histone modifications
-        * Laboratory technician
+        * Analysing
+        * Modelling
+        * Deploying
         
-  - title: Academic Editing Intern
-    company: Bio-protocol
-    company_url: 'https://bio-protocol.org/cn/default.aspx'
+  - title: Professor of Semiconductor Physics
+    company: University X
+    company_url: ''
     company_logo: org-x
-    location: Beijing, China
-    date_start: '2022-05-01'
-    date_end: ''
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
-      Responsibilities include:
-        
-        * Collected, integrated and processed the submission
-        * Integrated and reviewed the discussion (Q&A part)
-        * Wrote and edited academic content for Bio-101
 
 design:
   columns: '2'
