@@ -29,7 +29,7 @@ education:
   courses:
   - course: MSc in Plant Genetics and Breeding
     institution: University of Chinese Academy of Sciences
-    year: 2019 to Now
+    year: 2019 to 2022
   - course: BSc in Finance
     institution: Nanchang University
     year: 2015 to 2017
