@@ -32,18 +32,23 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Processed and analyzed sequencing data
+        * Carried out research related to DNA methylation and histone modifications
+        * Laboratory technician
         
   - title: Academic Editing Intern
     company: Bio-protocol
     company_url: 'https://bio-protocol.org/cn/default.aspx'
     company_logo: org-x
-    location: California
+    location: Beijing, China
     date_start: '2022-05-01'
     date_end: ''
     description: Taught electronic engineering and researched semiconductor physics.
+        Responsibilities include:
+        
+        * Collected, integrated and processed the submission
+        * Integrated and reviewed the discussion (Q&A part)
+        * Wrote and edited academic content for Bio-101
 
 design:
   columns: '2'
