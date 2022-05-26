@@ -22,15 +22,15 @@ twitter: 'chenheng1908'
 
 email: Chenheng19@mails.ucas.ac.cn
 address:
-  street: No.138 Haping Road
-  city: Harbin
-  region: Heilongjiang Province,
-  postcode: '150081'
+  street: No.7 Science Park Road
+  city: Zhongguancun, Life Science Park, 
+  region: Beijing,
+  postcode: '102206'
   country: China
   country_code: CHN
 coordinates:
-  latitude: '45.69707'
-  longitude: '126.63658'
+  latitude: '40.239'
+  longitude: '116.224'
 office_hours:
   - 'Weekday 09:00 to 17:00'
   - 'Weekend 09:00 to 11:30'

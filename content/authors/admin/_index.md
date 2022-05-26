@@ -32,7 +32,7 @@ education:
     year: 2019 to 2022
   - course: BSc in Finance
     institution: Nanchang University
-    year: 2015 to 2017
+    year: 2015 to 2018
   - course: BEng in Bioengineering
     institution: Nanchang University
     year: 2014 to 2018
