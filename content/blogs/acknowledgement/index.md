@@ -9,10 +9,10 @@ summary: The acknowledgement of Heng Chen's master dessertation.
 projects: []
 
 # Date published
-date: "2022-05-16T00:00:00Z"
+date: "2022-5-16T00:00:00Z"
 
 # Date updated
-lastmod: "2022-05-16T00:00:00Z"
+lastmod: "2022-5-16T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
