@@ -9,7 +9,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 100
 
 title: Blogs
 subtitle:
