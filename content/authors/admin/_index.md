@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:chenheng19@mails.ucas.ac.cn'
+  link: 'mailto:chenheng@nibs.ac.cn'
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: http://www.scopus.com/inward/authorDetails.url?authorID=57222151727&partnerID=MN8TOARS
