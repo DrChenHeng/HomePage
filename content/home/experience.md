@@ -33,7 +33,7 @@ experience:
         Responsibilities include:
         
         * Processed and analyzed sequencing data
-        * Carried out research related to DNA methylation and histone modifications
+        * Carried out research related to related to histone modifications modulating flowering time in Arabidopsis
         * Laboratory technician
         
   - title: Academic Editing Intern
