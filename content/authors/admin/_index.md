@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Heng Cheng
+title: Heng Chen
 
 # Is this the primary user of the site?
 superuser: true
